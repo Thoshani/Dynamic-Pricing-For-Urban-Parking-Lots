@@ -5,7 +5,7 @@ A
 
 ## 📌 **Title:**
 
-**Smart Dynamic Pricing for Urban Parking Facilities**
+Dynamic-Pricing-For-Urban-Parking-Lots
 
 ---
 
